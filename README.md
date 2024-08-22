@@ -3,14 +3,10 @@
 #### My Bio  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a> <a href="">
+</a> <a href="https://x.com/HoangHi84344157">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a> <a href="https://www.linkedin.com/in/hoang-nguyen-74995912b/">
+</a> <a href="https://www.linkedin.com/in/hoang-hiep-ha-3296a41b4/">
   <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a> <a href="https://t.me/hoangnt2601">
-  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a> <a href="https://leetcode.com">
-  <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
 Hi, I'm Ha Hoang Hiep, a DS_AI senior student from Vietnam, currently, I'm taking intership at Viettel Telecom. Beside's programming, I enjoy reading and traveling.

@@ -13,20 +13,17 @@
   <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
-Hi, I'm Hoang Nguyen Tien, a AI Fresher from Vietnam, currently, I'm working on [cxview.ai](https://cxview.ai/). Beside's programming, I enjoy reading and traveling.
+Hi, I'm Ha Hoang Hiep, a DS_AI senior student from Vietnam, currently, I'm taking intership at Viettel Telecom. Beside's programming, I enjoy reading and traveling.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ##### **Personal Stuffs:**
 
-- 🌱 I’m currently do with projects related to image processing.
+- 🌱 I’m currently do with projects related to Person-ReID, Vehicle Detection, OCR for book scan PDF.
 - 💬 Ask me about anything, I am happy to help.
-- 📫 How to reach me: hoang.nguyentien@cxview.ai
+- 📫 How to reach me: hoanghiep4502@gmail.com
 - 📝[Resume](https://www.topcv.vn/xem-cv/3366e6554d7fec6ac2f8baa79ec7402e)
 
-##### Blog & Writing:
-
-Apart from coding, I also maintain a blog - you can find my articles on my website at [codertapsu.dev](https://hoangnt2601.github.io/)
 
 📊 **My Skills:**
 

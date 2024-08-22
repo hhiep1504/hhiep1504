@@ -18,7 +18,7 @@ Hi, I'm Ha Hoang Hiep, a DS_AI senior student from Vietnam, currently, I'm takin
 - 🌱 I’m currently do with projects related to Person-ReID, Vehicle Detection, OCR for book scan PDF.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: hoanghiep4502@gmail.com
-- 📝[Resume](https://www.topcv.vn/xem-cv/3366e6554d7fec6ac2f8baa79ec7402e)
+- 📝[Resume]()
 
 
 📊 **My Skills:**

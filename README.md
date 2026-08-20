@@ -18,7 +18,7 @@
 
 I'm a Vietnamese data scientist currently completing an **MSc in Data Science at the University of York**. I previously studied **Data Science and Artificial Intelligence at HUST** and worked as an **AI Applications Intern at Viettel Telecom**.
 
-My interests include applied machine learning, quantitative modelling, time-series forecasting, computer vision and reproducible data pipelines. I enjoy turning messy data into useful answers—and occasionally reminding complex models that simple baselines still exist.
+My interests include applied machine learning, quantitative modelling, time-series forecasting, computer vision and reproducible data pipelines. I enjoy turning messy data into useful answers, and occasionally reminding complex models that simple baselines still exist.
 
 ### About me
 
